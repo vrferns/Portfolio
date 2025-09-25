@@ -26,7 +26,7 @@ export default function Navmenu() {
       </Navbar>
 
       <Routes>
-        <Route path="/" element={<Profile />} />
+        
         <Route path="/Info" element={<Info />} />
         <Route path="/MyWork" element={<Mywork />} />
         <Route path="/Contact" element={<Contact />} />
